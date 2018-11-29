@@ -121,8 +121,8 @@ public:
 
 
 int main() {
-	string word_in_L = "";
-	string word_not_in_L = "";
+	string word_in_L = "cdcccda";
+	string word_not_in_L = "cccdaaab";
 
 	cout << "EXAMPLES:" << endl;
 	cout << word_in_L << endl;
